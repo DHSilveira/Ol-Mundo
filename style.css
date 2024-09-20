@@ -1,0 +1,44 @@
+/* Centraliza o texto em todo o corpo */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #e0e0e0; /* Cinza claro */
+    color: #003366; /* Azul escuro */
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* Estilos para o cabeçalho */
+header {
+    background-color: #007BFF; /* Azul médio */
+    padding: 20px;
+    color: white;
+}
+
+/* Seção principal */
+main {
+    background-color: #f0f0f0; /* Cinza mais claro */
+    padding: 40px;
+    flex: 1;
+}
+
+/* Estilo para o rodapé */
+footer {
+    background-color: #003366; /* Azul escuro */
+    color: white;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    text-align: right;
+    width: 100%;
+}
+
+/* Ajusta o conteúdo para ocupar a altura total da página */
+html, body {
+    height: 100%;
+}
