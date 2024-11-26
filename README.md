@@ -4,8 +4,7 @@ Este repositório marca um momento especial: meu primeiro deploy de um projeto n
 
 O projeto consiste em uma página simples com a clássica frase "Olá, Mundo!", estilizada com HTML e CSS para explorar o básico de desenvolvimento web e publicação.
 
-🔗 Link do Projeto
-Você pode visualizar o site acessando GitHub Pages.
+🔗 Link do Projeto: https://dhsilveira.github.io/Ola-Mundo/
 
 🛠️ Tecnologias Utilizadas
 HTML5: estrutura da página.
